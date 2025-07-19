@@ -1,0 +1,9 @@
+.f{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.fl{
+    display: flex;
+    flex-direction: column;
+}
